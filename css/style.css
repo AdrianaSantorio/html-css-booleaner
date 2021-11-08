@@ -28,8 +28,15 @@ main {
     margin:10px;
 }
 
+h1 {
+    margin-bottom: 0px;
+}
+
 /* autore */
 
+.author-informations {
+    margin-bottom: 10px;
+}
 address, #date {
     color: grey;
     font-style: normal;
@@ -104,6 +111,11 @@ footer{
 #FI2 {
     background-image: url(../img/graph.jpg);
 }
+
+#suggested {
+    color: grey;
+}
+
 
 .footer-image-text{
     color: white;
