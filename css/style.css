@@ -1,0 +1,19 @@
+
+header {
+    background-image: url(../img/pattern.png);
+    background-size:400px;
+    background-color: #4ea0ff ;
+    background-position: center top;
+    height: 100px;
+}
+
+figure {
+    margin: 0px;
+}
+
+#logo {
+    height: 40px;
+    margin-left: 10px;
+    margin-top: 50px;
+    
+}
