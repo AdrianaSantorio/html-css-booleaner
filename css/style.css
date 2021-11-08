@@ -49,3 +49,23 @@ figcaption {
 ul {
     padding: 15px;
 }
+
+/* table */
+
+table {
+    text-align: left;
+    border-spacing: 0px;
+}
+
+.table-head{
+    background-color: #0099cc;
+    color: white;
+}
+
+#TH1, #TH2 {
+    width: 25%;
+}
+
+#TR1, #TR3 {
+    background-color: #b0dae8;
+}
