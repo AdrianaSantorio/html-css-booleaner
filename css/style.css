@@ -1,4 +1,7 @@
 
+
+/* header */
+
 header {
     background-image: url(../img/pattern.png);
     background-size:400px;
@@ -15,5 +18,13 @@ figure {
     height: 40px;
     margin-left: 10px;
     margin-top: 50px;
-    
+}
+
+address, span {
+    color: grey;
+    font-style: normal;
+}
+
+#author {
+    color: #4ea0ff;
 }
