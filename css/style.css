@@ -35,10 +35,17 @@ main {
     margin:10px;
 }
 
+/* figure */
+
 figure {
     margin: 0;
 }
 
 figcaption {
     font-size: 12px;
+}
+
+/* List */
+ul {
+    padding: 15px;
 }
