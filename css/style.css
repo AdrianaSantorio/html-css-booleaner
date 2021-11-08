@@ -69,3 +69,38 @@ table {
 #TR1, #TR3 {
     background-color: #b0dae8;
 }
+
+/* footer */
+
+/* .footer-image {
+    display: block;
+    margin: 5px;
+    width: 15%;
+}*/
+
+footer{
+    margin-left: 5px;
+}
+
+.footer-image {
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+    
+}
+
+#FI1 {
+    background-image: url(../img/monitor.jpg);   
+}
+
+#FI2 {
+    background-image: url(../img/graph.jpg);
+}
+
+.footer-image-text{
+    color: white;
+    font-weight: 300; 
+}
